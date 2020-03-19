@@ -1,0 +1,701 @@
+# Translation of Themes - Spa and Salon in Vietnamese
+# This file is distributed under the same license as the Themes - Spa and Salon package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-11-29 10:57:24+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: vi_VN\n"
+"Project-Id-Version: Themes - Spa and Salon\n"
+
+#. Description of the plugin/theme
+msgid "Spa and Salon is an elegantly designed theme suitable for spa, salons, beauty, care, girly, hair, health, hospitality, massage, medical, parlor, physiotherapy, wellness, yoga, health blog and various types of business websites. Spa and Salon comes with several features to make a user-friendly, interactive and visually stunning website. Such features include custom menu, attractive Banner with a Call to Action button, service section, testimonial section, about section, Header Phone number display, breadcrumbs, and social media integration. It has three footer area and a right sidebar and includes four custom widgets for the recent posts, popular posts, social media and the featured post. The theme is built on Customizer and it allows you to easily customize your website with live previews. The theme is rigorously tested and optimized for speed and faster page load time and has a secure and clean code. The theme is also translation ready. Designed with visitor engagement in mind, Spa and Salon helps you to easily and intuitively create professional and appealing websites. Check demo at https://raratheme.com/preview/spa-and-salon/ and documentation at https://raratheme.com/documentation/spa-and-salon. Read theme details at https://raratheme.com/wordpress-themes/spa-and-salon and get free support at https://raratheme.com/support-ticket."
+msgstr "Spa và Salon là một giao diện được thiết kế trang nhã phù hợp với spa, thẩm mỹ, chăm sóc, tóc, y tế, khách sạn, massage, y tế, phòng khách, vật lý trị liệu, yoga, blog sức khỏe và các loại trang web kinh doanh khác nhau. Spa và Salon có nhiều tính năng tạo ra một trang web thân thiện với người dùng, tương tác và trực quan. Các tính năng như tùy chỉnh menu, Banner hấp dẫn với nút Gọi hành động, mục dịch vụ, mục bài đánh giá, mục giới thiệu, Tiêu đề số điện thoại được hiện thị, đường dẫn và tích hợp truyền thông xã hội. Và có ba phần footer và bên phải sidebar và bao gồm bốn widgets tùy chỉnh cho các bài đăng gần đây, các bài đăng phổ biến, phương tiện truyền thông xã hội và bài đăng nổi bật. Giao diện được tạo ra dựa trên nhu cầu sử dụng của khách hàng và cho phép bạn dễ dàng tùy chỉnh trang web của mình bằng cách xem trực tiếp.Mã code của giao diện được kiểm tra nghiêm ngặt để tối ưu hóa tốc độ để thời gian tải trang nhanh hơn và an toàn hơn. Giao diện đã được dịch sẵn. Được thiết kế với sự tham gia của khách truy cập, Spa and Salon giúp bạn dễ dàng tạo ra những trang web chuyên nghiệp, hấp dẫn và trực quan. Kiểm tra demo tại https://raratheme.com/preview/spa-and-salon/ và tài liệu tại https://raratheme.com/documentation/spa-and-salon. Đọc chi tiết chủ đề tại https://raratheme.com/wordpress-themes/spa-and-salon và nhận hỗ trợ miễn phí tại https://raratheme.com/support-ticket."
+
+#. Theme Name of the plugin/theme
+msgid "Spa and Salon"
+msgstr "Spa và Salon"
+
+#: inc/customizer.php:943
+msgid "Copyright Info"
+msgstr "Thông tin bản quyền"
+
+#: inc/customizer.php:926
+msgid "Footer Settings"
+msgstr "Cài đặt chân trang"
+
+#: inc/woocommerce-functions.php:39
+msgid "Sidebar displaying only in woocommerce pages."
+msgstr "Thanh bên hiển thị chỉ trong các trang woocommerce."
+
+#: inc/woocommerce-functions.php:37
+msgid "Shop Sidebar"
+msgstr "Sidebar cửa hàng"
+
+#: inc/info.php:31
+msgid "About Spa And Salon"
+msgstr "Giới thiệu Spa And Salon"
+
+#: inc/info.php:27
+msgid "More WordPress Themes"
+msgstr "Thêm giao diện WordPress"
+
+#: inc/info.php:26
+msgid "Rate this theme"
+msgstr "Đánh giá giao diện này"
+
+#: inc/info.php:24
+msgid "Theme info"
+msgstr "Thông tin chủ đề"
+
+#: inc/info.php:154
+msgid "VIEW PRO THEME"
+msgstr "XEM THEME BẢN PRO"
+
+#: inc/info.php:152
+msgid "Pro Available"
+msgstr "Pro sẵn có"
+
+#: inc/info.php:25
+msgid "Support ticket"
+msgstr "Nhận Hỗ trợ"
+
+#: inc/info.php:23
+msgid "View documentation"
+msgstr "Xem tài liệu"
+
+#: inc/info.php:22 inc/info.php:23 inc/info.php:24 inc/info.php:25
+#: inc/info.php:26 inc/info.php:27
+msgid "here"
+msgstr "đây"
+
+#: inc/info.php:22
+msgid "View demo"
+msgstr "Xem demo"
+
+#: inc/info.php:21
+msgid "Need help?"
+msgstr "Cần giúp đỡ?"
+
+#: inc/info.php:11
+msgid "Information Links"
+msgstr "Liên kết thông tin"
+
+#. Template Name of the plugin/theme
+msgid "Home Page"
+msgstr "Trang chủ"
+
+#. translators: %s: Name of current post.
+#: template-parts/content.php:37
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Tiếp tục đọc %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: template-parts/content-page.php:27 template-parts/content.php:44
+msgid "Pages:"
+msgstr "Trang:"
+
+#: template-parts/content-none.php:31
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Có vẻ như chúng tôi không thể tìm thấy những gì bạn đang tìm kiếm. Có lẽ tìm kiếm có thể giúp đỡ."
+
+#: template-parts/content-none.php:25
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Rất tiếc, không có nội dung nào khớp với yêu cầu tìm kiếm của bạn. Hãy thử lại với các từ khóa khác."
+
+#: template-parts/content-none.php:21
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Bạn đã sẵn sàng đăng bài viết đầu tiên chưa? <a href=\"%1$s\">Hãy bắt đầu tại đây</a>."
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Không có kết quả"
+
+#: search.php:21
+msgid "Search Results for \"%s\""
+msgstr "Tìm kiếm kết quả cho \"%s\""
+
+#: search.php:18
+msgid "Search Result"
+msgstr "Tìm kết quả"
+
+#: inc/widget-social-links.php:119
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: inc/widget-social-links.php:66 inc/widget-social-links.php:124
+msgid "YouTube"
+msgstr "YouTube"
+
+#: inc/widget-social-links.php:64
+msgid "Linkedin"
+msgstr "Linkedin"
+
+#: inc/widget-social-links.php:62 inc/widget-social-links.php:114
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: inc/widget-social-links.php:60 inc/widget-social-links.php:109
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/widget-social-links.php:58 inc/widget-social-links.php:104
+msgid "Instagram"
+msgstr "Instagram"
+
+#: inc/widget-social-links.php:56 inc/widget-social-links.php:99
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/widget-social-links.php:27
+msgid "A Social Links Widget"
+msgstr "Tiện ích liên kết mạng xã hội"
+
+#: inc/widget-social-links.php:26
+msgid "RARA: Social Links"
+msgstr "RARA: Liên kết mạng xã hội"
+
+#: inc/widget-recent-post.php:27
+msgid "A Recent Post Widget"
+msgstr "Widget bài viết gần đây"
+
+#: inc/widget-recent-post.php:26
+msgid "RARA: Recent Post"
+msgstr "RARA: Bài viết gần đây"
+
+#: inc/widget-popular-post.php:125 inc/widget-recent-post.php:121
+msgid "Show Post Date"
+msgstr "Hiển thị ngày bài viết"
+
+#: inc/widget-popular-post.php:114 inc/widget-recent-post.php:110
+msgid "Number of Posts"
+msgstr "Số bài viết"
+
+#: inc/widget-popular-post.php:109 inc/widget-recent-post.php:105
+#: inc/widget-social-links.php:94
+msgid "Title"
+msgstr "Tiêu đề"
+
+#: inc/widget-popular-post.php:27
+msgid "A Popular Post Widget"
+msgstr "Widget bài viết phổ biến"
+
+#: inc/widget-popular-post.php:26
+msgid "RARA: Popular Post"
+msgstr "RARA: Bài viết phổ biến"
+
+#: inc/widget-featured-post.php:117 inc/widget-popular-post.php:120
+#: inc/widget-recent-post.php:116
+msgid "Show Post Thumbnail"
+msgstr "Hiển thị hình thu nhỏ bài viết"
+
+#: inc/widget-featured-post.php:101
+msgid "Posts"
+msgstr "Bài viết"
+
+#: inc/widget-featured-post.php:84
+msgid "--Choose--"
+msgstr "--Chọn--"
+
+#: inc/widget-featured-post.php:27
+msgid "A Featured Post Widget"
+msgstr "Widget bài viết nổi bật"
+
+#: inc/widget-featured-post.php:26
+msgid "RARA: Featured Post"
+msgstr "RARA: Bài viết nổi bật"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:62 template-parts/content-page.php:38
+msgid "Edit %s"
+msgstr "Sửa %s"
+
+#: inc/template-tags.php:46 inc/template-tags.php:125
+msgid "%1$s"
+msgstr "%1$s"
+
+#: inc/template-tags.php:40
+msgid "% Comments"
+msgstr "% Bình luận"
+
+#: inc/template-tags.php:40
+msgid "1 Comment"
+msgstr "1 Bình luận"
+
+#: inc/template-tags.php:40
+msgid "Leave a comment"
+msgstr "Để lại bình luận"
+
+#: inc/template-tags.php:33
+msgctxt "post author"
+msgid "%s"
+msgstr "%s"
+
+#: inc/template-tags.php:28
+msgctxt "post date"
+msgid "%s"
+msgstr "%s"
+
+#: inc/metabox.php:40
+msgid "Choose Sidebar Template"
+msgstr "Chọn Mẫu Sidebar"
+
+#: inc/metabox.php:28
+msgid "No sidebar"
+msgstr "Không có thanh bên"
+
+#: inc/metabox.php:23
+msgid "Right sidebar (default)"
+msgstr "Thanh bên phải (mặc định)"
+
+#: inc/metabox.php:13
+msgid "Sidebar Layout"
+msgstr "Bố cục Sidebar"
+
+#: inc/extra.php:451
+msgid "WordPress"
+msgstr "WordPress"
+
+#: inc/extra.php:451
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#: inc/extra.php:451
+msgid "Powered by: %s"
+msgstr "Powered by: %s"
+
+#: inc/extra.php:450
+msgid "Spa And Salon By: Rara Theme. "
+msgstr "Spa And Salon By: Rara Theme. "
+
+#. #-#-#-#-#  spa-and-salon.pot (Spa and Salon 1.0.9)  #-#-#-#-#
+#. Theme URI of the plugin/theme
+#: inc/extra.php:450
+msgid "http://raratheme.com/wordpress-themes/spa-and-salon/"
+msgstr "http://raratheme.com/wordpress-themes/spa-and-salon/"
+
+#: inc/extra.php:450
+msgid "%s"
+msgstr "%s"
+
+#: inc/extra.php:447
+msgid ". All Rights Reserved."
+msgstr ". Đã đăng ký Bản quyền."
+
+#: inc/extra.php:446
+msgid "&copy; "
+msgstr "& copy; "
+
+#. translators: used between list items, there is a space after the comma
+#: inc/extra.php:330 inc/template-tags.php:44 inc/template-tags.php:123
+msgid ", "
+msgstr ", "
+
+#: inc/extra.php:184
+msgid "404 Error - Page not Found"
+msgstr "Lỗi 404 - Không tìm thấy trang"
+
+#: inc/extra.php:115
+msgid "d"
+msgstr "d"
+
+#: inc/extra.php:114 inc/extra.php:119
+msgid "F"
+msgstr "F"
+
+#: inc/extra.php:114
+msgid "m"
+msgstr "m"
+
+#: inc/extra.php:113 inc/extra.php:114 inc/extra.php:118 inc/extra.php:122
+msgid "Y"
+msgstr "Y"
+
+#: inc/extra.php:110
+msgid "\""
+msgstr "\""
+
+#: inc/extra.php:110
+msgid "Search Results for \""
+msgstr "Tìm kiếm kết quả cho \""
+
+#: inc/customizer.php:916
+msgid "Phone Number"
+msgstr "Số điện thoại"
+
+#: inc/customizer.php:897
+msgid "Header Section Settings"
+msgstr "Cài đặt mục tiêu"
+
+#: inc/customizer.php:885
+msgid "Instagram Url"
+msgstr "Url Instagram"
+
+#: inc/customizer.php:868
+msgid "Pinterest Url"
+msgstr "Pinterest Url"
+
+#: inc/customizer.php:850
+msgid "Google Plus Url"
+msgstr "Url Google Plus"
+
+#: inc/customizer.php:832
+msgid "Rss Feed Url"
+msgstr "Url Nguồn cấp Rss"
+
+#: inc/customizer.php:814
+msgid "Linkin Page Url"
+msgstr "Linkin Trang Url"
+
+#: inc/customizer.php:797
+msgid "Twitter Page Url"
+msgstr "Url Trang Twitter"
+
+#: inc/customizer.php:780
+msgid "Facebook Page Url"
+msgstr "Url Trang Facebook"
+
+#: inc/customizer.php:761
+msgid "Social Info In Footer"
+msgstr "Thông tin xã hội ở chân trang"
+
+#: inc/customizer.php:743
+msgid "Enable Social Links On Footer"
+msgstr "Bật liên kết xã hội trên chân trang"
+
+#: inc/customizer.php:725
+msgid "Enable Social Links on Header"
+msgstr "Bật Liên kết Xã hội trên Tiêu đề"
+
+#: inc/customizer.php:707
+msgid "Social Settings"
+msgstr "Thiết lập mạng xã hội"
+
+#: inc/customizer.php:696
+msgid "Breadcrumb Separator"
+msgstr "Đường dẫn Phân cách"
+
+#: inc/customizer.php:688 inc/extra.php:86
+msgid ">"
+msgstr ">"
+
+#: inc/customizer.php:678
+msgid "Breadcrumb Home Text"
+msgstr "Đường dẫn Trang chủ Tiêu đề"
+
+#: inc/customizer.php:670 inc/extra.php:87
+msgid "Home"
+msgstr "Trang Chủ"
+
+#: inc/customizer.php:660
+msgid "Show current"
+msgstr "Hiển thị hiện tại"
+
+#: inc/customizer.php:642
+msgid "Enable Breadcrumb"
+msgstr "Kích hoạt tính năng Đường dẫn"
+
+#: inc/customizer.php:624
+msgid "Breadcrumb Settings"
+msgstr "Cài đặt Đường dẫn"
+
+#: inc/customizer.php:610
+msgid "Select Category"
+msgstr "Chọn thể loại"
+
+#: inc/customizer.php:592
+msgid "Testimonial Section Content"
+msgstr "Nội dung phần Chứng thực"
+
+#: inc/customizer.php:574
+msgid "Testimonial Section Title"
+msgstr "Tiêu đề Tiêu đề Chứng chỉ"
+
+#: inc/customizer.php:566 sections/section-testimonial.php:8
+msgid "Client Testimonials"
+msgstr "giấy Tiến cử người ủy thác"
+
+#: inc/customizer.php:556
+msgid "Enable Testimonial Section"
+msgstr "Bật phần Chứng thực"
+
+#: inc/customizer.php:538
+msgid "Testimonial Section"
+msgstr "Mục Chứng thực"
+
+#: inc/customizer.php:524
+msgid "Select Service Post Six"
+msgstr "Chọn dịch vụ bài viết số sáu"
+
+#: inc/customizer.php:505
+msgid "Select Service Post Five"
+msgstr "Chọn dịch vụ bài viết số năm"
+
+#: inc/customizer.php:486
+msgid "Select Service Post Four"
+msgstr "Chọn dịch vụ bài viết số bốn"
+
+#: inc/customizer.php:467
+msgid "Select Service Post Three"
+msgstr "Chọn dịch vụ bài viết số ba"
+
+#: inc/customizer.php:448
+msgid "Select Service Post Two"
+msgstr "Chọn dịch vụ bài viết số hai"
+
+#: inc/customizer.php:429
+msgid "Select Service Post One"
+msgstr "Chọn dịch vụ bài viết số một"
+
+#: inc/customizer.php:412
+msgid "Service Section Content"
+msgstr "Nội dung Dịch vụ"
+
+#: inc/customizer.php:394
+msgid "Service Section Title"
+msgstr "Tiêu đề mục dịch vụ"
+
+#: inc/customizer.php:386 sections/section-service.php:8
+msgid "Our Services"
+msgstr "Dịch vụ của chúng tôi"
+
+#: inc/customizer.php:376
+msgid "Enable Service Section"
+msgstr "Bật Mục Dịch vụ"
+
+#: inc/customizer.php:358
+msgid "Service Section"
+msgstr "Mục Dịch vụ"
+
+#: inc/customizer.php:338 inc/widget-featured-post.php:96
+#: inc/widget-featured-post.php:136 sections/section-about.php:9
+#: template-parts/content.php:54
+msgid "Read More"
+msgstr "Đọc tiếp"
+
+#: inc/customizer.php:327
+msgid "Select About Section Post"
+msgstr "Chọn About Section Post"
+
+#: inc/customizer.php:309
+msgid "Enable About Section"
+msgstr "Bật Giới mục về Mục"
+
+#: inc/customizer.php:291
+msgid "About Section"
+msgstr "Giới thiệu phần"
+
+#: inc/customizer.php:278
+msgid "Favicon Name For Post Three"
+msgstr "Tên Favicon cho Ba bài đăng"
+
+#: inc/customizer.php:270 inc/extra.php:367
+msgid "shopping-cart"
+msgstr "giỏ hàng"
+
+#: inc/customizer.php:259
+msgid "Select Featured Post Three"
+msgstr "Chọn ba bài viết nổi bật"
+
+#: inc/customizer.php:241
+msgid "Favicon Name For Post Two"
+msgstr "Tên Favicon Cho Bài đăng Hai"
+
+#: inc/customizer.php:233 inc/extra.php:366
+msgid "thumbs-up"
+msgstr "thumbs-up"
+
+#: inc/customizer.php:221
+msgid "Select Featured Post Two"
+msgstr "Chọn hai bài viết nổi bật"
+
+#: inc/customizer.php:203
+msgid "Favicon Name For Post One"
+msgstr "Tên Favicon Cho Bài đăng Thứ nhất"
+
+#: inc/customizer.php:195 inc/extra.php:365
+msgid "money"
+msgstr "Tiền"
+
+#: inc/customizer.php:183
+msgid "Select Featured Post One"
+msgstr "Chọn một bài viết nổi bật"
+
+#: inc/customizer.php:165
+msgid "Enable Featured Posts Section"
+msgstr "Bật phần bài đăng nổi bật"
+
+#: inc/customizer.php:147
+msgid "Featured Section"
+msgstr "Mục nổi bật"
+
+#: inc/customizer.php:136 inc/customizer.php:346
+#: inc/widget-featured-post.php:111
+msgid "Read More Text"
+msgstr "Đọc thêm Văn bản"
+
+#: inc/customizer.php:128 inc/extra.php:322
+msgid "Get Started"
+msgstr "Bắt đầu"
+
+#: inc/customizer.php:117
+msgid "Select Banner Post"
+msgstr "Chọn Quảng cáo bài viết"
+
+#: inc/customizer.php:99
+msgid "Enable Banner Section"
+msgstr "Bật Mục quảng cáo"
+
+#: inc/customizer.php:81
+msgid "Banner Section"
+msgstr "Mục Quảng Cáo"
+
+#: inc/customizer.php:73
+msgid "Customize Home Page Settings"
+msgstr "Tùy chỉnh Cài đặt Trang chủ"
+
+#: inc/customizer.php:72
+msgid "Home Page Settings"
+msgstr "Cài đặt Trang chủ"
+
+#: inc/customizer.php:50
+msgid "Default section provided by wordpress customizer."
+msgstr "Phần mặc định được cung cấp bởi wordpress customizer."
+
+#: inc/customizer.php:49
+msgid "Default Settings"
+msgstr "Thiết lập mặc định"
+
+#: inc/customizer.php:37
+msgid "Choose Category"
+msgstr "Chọn Thể Loại"
+
+#: inc/customizer.php:21
+msgid "Choose Post"
+msgstr "Chọn bài viết"
+
+#: header.php:31 inc/customizer.php:908
+msgid "01-234566789"
+msgstr "01-234566789"
+
+#: functions.php:182
+msgid "Footer Three"
+msgstr "Cuối trang Ba"
+
+#: functions.php:172
+msgid "Footer Two"
+msgstr "Cuối trang hai"
+
+#: functions.php:162
+msgid "Footer One"
+msgstr "Cuối trang đầu tiên"
+
+#: functions.php:153
+msgid "Right Sidebar"
+msgstr "Sidebar bên phải"
+
+#: functions.php:54
+msgid "Primary"
+msgstr "Sơ cấp"
+
+#: footer.php:21 inc/customizer.php:753
+msgid "Follow Us On"
+msgstr "Theo dõi chúng tôi tại"
+
+#: comments.php:121
+msgid "Your email address will not be published. "
+msgstr "Địa chỉ email của bạn sẽ không được xuất bản."
+
+#: comments.php:114
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of this account\">Log out?</a>"
+msgstr "Đăng nhập như <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Đăng xuất khỏi tài khoản này\">Đăng xuất?</a>"
+
+#: comments.php:108
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "bạn phải <a href=\"%s\">đăng nhập</a>để đăng bình luận."
+
+#: comments.php:103
+msgid "Comment"
+msgstr "Bình luận"
+
+#: comments.php:99
+msgid "POST COMMENT"
+msgstr "ĐĂNG BÌNH LUẬN"
+
+#: comments.php:98
+msgid "Cancel Reply"
+msgstr "Hủy trả lời"
+
+#: comments.php:97
+msgid "Leave a Reply to %s"
+msgstr "Để lại trả lời đến %s"
+
+#: comments.php:96
+msgid "Leave a Reply"
+msgstr "Để lại Trả lời"
+
+#: comments.php:86
+msgid "Website"
+msgstr "Website"
+
+#: comments.php:82
+msgid "Email*"
+msgstr "Email*"
+
+#: comments.php:78
+msgid "Name*"
+msgstr "Tên*"
+
+#: comments.php:73
+msgid "Required fields are marked"
+msgstr "Các trường bắt buộc được đánh dấu"
+
+#: comments.php:61
+msgid "Comments are closed."
+msgstr "Đã đóng bình luận."
+
+#: comments.php:48
+msgid "Newer Comments"
+msgstr "Các bình luận mới hơn"
+
+#: comments.php:47
+msgid "Older Comments"
+msgstr "Các bình luận cũ hơn"
+
+#: comments.php:44
+msgid "Comment navigation"
+msgstr "Điều hướng bình luận"
+
+#: comments.php:29
+msgid "Comments"
+msgstr "Bình luận"
+
+#: 404.php:16
+msgid " where we'll point you in the right direction."
+msgstr "Nơi chúng tôi sẽ chỉ cho bạn đi đúng hướng."
+
+#: 404.php:16
+msgid "homepage"
+msgstr "trang chủ"
+
+#: 404.php:16
+msgid "Try going back to our "
+msgstr "Hãy thử quay lại để chúng tôi"
+
+#: 404.php:15
+msgid "Sorry, that page can't be found!"
+msgstr "Xin lỗi, không thể tìm thấy trang đó!"
+
+#: 404.php:14
+msgid "404"
+msgstr "404"
+
+#. Author URI of the plugin/theme
+msgid "http://raratheme.com/"
+msgstr "http://raratheme.com/"
+
+#. Author of the plugin/theme
+msgid "Rara Theme"
+msgstr "Rara Theme"
